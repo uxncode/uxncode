@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+uxncode!;I+love+Java%2C+C%2B%2B%2C+and+Python!;Always+learning+something+new+🚀" alt="Typing SVG" />
-</p>
 
 
 # Hi there 👋, I'm uxncode
