@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm uxncode
 
-<!--
-**uxncode/uxncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer passionate about building small projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 Current focus:
+- Exploring web development 🌐
+- Building small useful projects 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning:
+- Python, C++, JavaScript
+- Git and GitHub basics
+
+## 📫 How to reach me:
+- 📧 Email:uxncode.dev@gmail.com
+## ⚡ Fun fact:
+- I love coding, games, and creativity 🎮🎨
